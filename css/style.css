@@ -52,3 +52,33 @@ header .sign-btn:hover{
 header .header-content h1{
     color: #644F9C;
 }
+.available h1{
+    font-size: 30px;
+    color: #644F9C;
+}
+.available-content .icon i{
+    background-color: #fff;
+    color: #1D4999;
+    box-shadow: 0px 4px 7px 0px #0003;
+    font-size: 45px;
+    padding: 40px;
+    border-radius: 50%;
+}
+.available-content h4{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.available-btn{
+    background-color: #644F9C;
+    color: #fff;
+    padding: 5px 50px;
+    border-radius: 30px;
+    border: 0;
+}
+.available-btn:hover{
+    color: #fff;
+    background-color: #644F9C;
+    transition: .4s all ease-in-out;
+    transform: translateY(-10px);
+}
